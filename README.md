@@ -9,7 +9,7 @@
 
 [x]Load the data you receive into a Pandas DataFrame.
 
-Show the first five rows of the data set.
+[x]Show the first five rows of the data set.
 
 Show the description and the info of the data set.
 
