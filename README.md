@@ -17,10 +17,10 @@
 
 [x]Using a regression model, split your data into train and test data.
 
-Fit your training split to the regression model.
+[x]Fit your training split to the regression model.
 
-[]Show your regression model’s score.
+[x]Show your regression model’s score.
 
-[]Draw at least three conclusions from your regression model.
+[x]Draw at least three conclusions from your regression model.
 
-[]Your notebook should be clutter free and polished.
+[x]Your notebook should be clutter free and polished.
