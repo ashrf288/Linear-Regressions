@@ -11,9 +11,9 @@
 
 [x]Show the first five rows of the data set.
 
-Show the description and the info of the data set.
+[x]Show the description and the info of the data set.
 
-Ensure that any date columns have been cast into a datetime object in your DataFrame.
+[x]Ensure that any date columns have been cast into a datetime object in your DataFrame.
 
 Using a regression model, split your data into train and test data.
 
