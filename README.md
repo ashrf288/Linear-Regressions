@@ -15,7 +15,7 @@
 
 [x]Ensure that any date columns have been cast into a datetime object in your DataFrame.
 
-Using a regression model, split your data into train and test data.
+[]Using a regression model, split your data into train and test data.
 
 Fit your training split to the regression model.
 
