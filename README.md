@@ -1,13 +1,13 @@
 ## Exploratory Analysis with Linear Regressions
 
 
-Select a Kaggle data set that is suitable for Linear Regression.
+[x]Select a Kaggle data set that is suitable for Linear Regression.
 
-Note make sure the data set has csv file/s to download.
+[x]Note make sure the data set has csv file/s to download.
 
-Data set must be continous values appropriate for a Linear Regression. If you’re not sure then ask Instructor or TA.
+[x]Data set must be continous values appropriate for a Linear Regression. If you’re not sure then ask Instructor or TA.
 
-Load the data you receive into a Pandas DataFrame.
+[x]Load the data you receive into a Pandas DataFrame.
 
 Show the first five rows of the data set.
 
